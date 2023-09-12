@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello, I'm Mateus Cardoso! 👋
 
-<!--
-**MateusCard/MateusCard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎉 I'm 19 Years Old
 
-Here are some ideas to get you started:
+- 🔎 Searching For Opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤗 Please, Enjoy And Be Welcome! :D
+
+ <div>  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MateusCard&show_icons=true&count_private=true&hide_border=true&title_color=A4F4EF&icon_color=A4F4EF&text_color=cfd6f5&bg_color=22222b" alt="MateusCard Github Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusCard&layout=compact&hide_border=true&title_color=A4F4EF&text_color=cfd6f5&bg_color=0d1117" />
+</div>
+
+💻 Currently Studying: 
+
+📞 If You Want To Contact Me, Just Check My Social Medias Below!

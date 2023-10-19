@@ -1,5 +1,7 @@
 ### Hello, I'm Mateus Cardoso! 👋
 
+<img src="https://komarev.com/ghpvc/?username=MateusCard&style=for-the-badge"></img>
+
 - 🎉 I'm 19 Years Old
 
 - 🔎 Searching For Opportunities

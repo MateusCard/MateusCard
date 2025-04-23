@@ -6,7 +6,7 @@
 
 - 🔎 Searching For Opportunities
 
-- 🤗 Please, Enjoy And Be Welcome! :D
+- 🤗 Please, Enjoy And Be Welcome!
 
  <div>  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MateusCard&show_icons=true&count_private=true&hide_border=true&title_color=A4F4EF&icon_color=A4F4EF&text_color=cfd6f5&bg_color=22222b" alt="MateusCard Github Stats" /> 
@@ -34,5 +34,6 @@
   <a href="mateus.novaes.15062004@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
   <a href="https://www.linkedin.com/in/mateus-cardoso-b60576291/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
   <a href="https://www.instagram.com/mccardnv/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
+  <a href="" target="_blank"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> </a>
 </div>
  

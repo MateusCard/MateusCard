@@ -30,6 +30,10 @@
 ### SQL DataBase:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
+![Database](https://img.shields.io/badge/Database-000000?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=MySQL&logoColor=white)&nbsp;
+
 
 
 ### 💻 Main Technologies That I Use:
